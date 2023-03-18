@@ -1,6 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d825ef8-4038-4f4c-b018-296039446041" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/app-bar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/error-boundary.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/user-details-table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/user-query-results.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/generic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/error-data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/nullable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/query-parameter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/user-details.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/user-phone-details.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/user-query-details.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/user-query-response.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/user-query.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/thirteen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="2N9e2W8ZHeFqybhGjJlPtHFchhg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.google.cloudcode.ide_session_index" value="20230317_0001" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="ssh.settings" />
+    <property name="ts.external.directory.path" value="C:\Users\usuario\proyectos\PruebaTecnicaFinmaq\client\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\proyectos\PruebaTecnicaFinmaq\client\public" />
+      <recent name="C:\Users\usuario\proyectos\PruebaTecnicaFinmaq\client\lib" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d825ef8-4038-4f4c-b018-296039446041" name="Changes" comment="" />
+      <created>1679080522826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679080522826</updated>
+      <workItem from="1679080524978" duration="24292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
